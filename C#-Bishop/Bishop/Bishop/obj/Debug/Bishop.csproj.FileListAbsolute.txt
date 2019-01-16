@@ -1,0 +1,14 @@
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\bin\Debug\Bishop.exe.config
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\bin\Debug\Bishop.exe
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\bin\Debug\Bishop.pdb
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.csprojResolveAssemblyReference.cache
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.MainForm.resources
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.Properties.Resources.resources
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.csproj.GenerateResource.Cache
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.csproj.CoreCompileInputs.cache
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.exe
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.pdb
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.SlopeShapeForm.resources
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.AboutForm.resources
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.SoilParameterForm.resources
+D:\Coding\Github\Little-ExE\翟钱的条分法计算边坡稳定\C#-Bishop\Bishop\Bishop\obj\Debug\Bishop.SetSeedForm.resources
